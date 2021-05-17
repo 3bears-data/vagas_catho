@@ -1,4 +1,4 @@
-# vagas_catho
+# Web-Scrap catho.com.br com python
 > Este projeto em python foi desenvolvido por Leandro Alves da Silva (leandro@3brs.com.br) pela 3 Bears Data Consulting
 
 Através da execução do script ws.py, um web-scraping será feito no site da catho para obter a lista de 3 profissões, sendo elas: engenheiro de dados, analista de bi e cientista de dados.
