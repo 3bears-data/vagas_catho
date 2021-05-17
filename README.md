@@ -1,5 +1,5 @@
 # vagas_catho
-Este projeto em python foi desenvolvido por Leandro Alves da Silva (leandro@3brs.com.br) pela 3 Bears Data Consulting
+> Este projeto em python foi desenvolvido por Leandro Alves da Silva (leandro@3brs.com.br) pela 3 Bears Data Consulting
 
 Através da execução do script ws.py, um web-scraping será feito no site da catho para obter a lista de 3 profissões, sendo elas: engenheiro de dados, analista de bi e cientista de dados.
 
@@ -9,9 +9,9 @@ Os testes foram feitos com o interpretador python 3.7 no navegador Google Chrome
 Dependendo da versão do seu google chrome, será necessário trocar o webdriver fazendo o download no site: https://chromedriver.chromium.org/downloads
 
 Bibliotecas utilizadas: 
-> pandas (pip install pandas)
-> nltk (pip install nltk)
-> selenium (pip install selenium)
+1º pandas (pip install pandas)
+2º nltk (pip install nltk)
+3º selenium (pip install selenium)
 
 Observação:
 Dentro do script neural.py, há uma lista por nome de "outras" onde você pode adicionar as palavras que deseja que NÃO conste na word-cloud da sua ferramenta de dataviz.
